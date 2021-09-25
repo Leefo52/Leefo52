@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     I like to draw, watch animes and think about weird ideas ✏️<br>
 </p>
 <p>
-    Contato: <a href="mailto:leefo.py@gmail.com" target="_blank">leefo.py@gmail.com</a>
+    Contact: <a href="mailto:leefo.py@gmail.com" target="_blank">leefo.py@gmail.com</a>
 </p>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Leefo52&theme=radical"></div>
 
