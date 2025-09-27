@@ -18,7 +18,6 @@ Here are some ideas to get you started:
     Currently i'm doing some little projects to create a portfolio 🐸<br>
     I like to draw, watch animes and think about weird ideas ✏️<br>
 </p>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Leefo52&theme=radical"></div>
 
 <h2>Skills:</h2>
 <ul>
