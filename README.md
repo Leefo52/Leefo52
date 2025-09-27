@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h2>Hello, I'm Lucas!</h2>
 <p>
-    I'm 18 years old and i'm currently studying to become a front-end developer<br>
+    I'm 22 years old and i'm currently studying to become a developer<br>
     Currently i'm doing some little projects to create a portfolio 🐸<br>
     I like to draw, watch animes and think about weird ideas ✏️<br>
 </p>
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 <h2>Skills:</h2>
 <ul>
-    <li>HTML<img align="right" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"></li>
     <li>CSS</li>
     <li>Javascript</li>
     <li>Angular</li>
